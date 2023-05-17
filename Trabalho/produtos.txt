@@ -1,0 +1,3 @@
+A1;Kit-Kat;Chocolate;Chocolate com recheio de bolacha;1500,000000;1/1/2024;1,500000;8
+A2;KIT;CH;GSRF GESFD GES
+;5220,000000;1/1/2024;1,500000;10

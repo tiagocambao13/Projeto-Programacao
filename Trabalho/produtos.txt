@@ -1,1 +1,1 @@
-A1;kit;cho;chocolate com dvcx;1500,000000;1/1/2024;1,500000;15
+A1;Kit-Kat;Chocolate;Chocolate com recheio de bolacha;1500,000000;1/1/2024;1,500000;2

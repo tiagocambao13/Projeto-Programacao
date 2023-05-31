@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #define MAX 48
-
+///hfgfgfggfgf
 typedef struct data{
 	int dia,mes,ano;
 }DATA;

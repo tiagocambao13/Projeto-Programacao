@@ -4,6 +4,8 @@
 #include <string.h>
 #define MAX 48
 
+
+// fds
 typedef struct data{
 	int dia,mes,ano;
 }DATA;
